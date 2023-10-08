@@ -1,4 +1,4 @@
-# IDENTIFICAÇÃO DE EXOPLANETAS UTILIZANDO TÉCNICAS DE APRENDIZADO DE MÁQUINA
+# Identificação De Exoplanetas Utilizando Técnicas De Aprendizado De Máquina
 
 **Bruno Henrique Dourado Macedo(1)**, Joylan Nunes Maciel(2), Willian Zalewski(3)
 
@@ -26,6 +26,9 @@ Nas últimas décadas, o progresso tecnológico e a redução de custos em equip
 
 **Fonte:** Autoria própria.
 
+[Gráfico dos resultados](https://github.com/brunohdmacedo/IC_2023_ML_Exoplanet/blob/main/resultados%20globais.png?raw=true)
+
+**Fonte:** Autoria própria.
 ## REFERÊNCIAS
 
 1. MONTANGER, P. O.; ZALEWSKI, W. Programa computacional para a identificação automática de exoplanetas. Revista Brasileira de Iniciação Científica, p. 195-208, abr. 2020. ISSN 2359-232X.
@@ -38,3 +41,4 @@ Nas últimas décadas, o progresso tecnológico e a redução de custos em equip
 
 Gostaria de agradecer a UNILA por abrir as portas da universidade, à PRPPG/UNILA e à Fundação Araucária/PR pelo seu apoio através da bolsa ITI, ao professor Willian Zalewski pela orientação neste projeto.
 
+Download do anais do SIEPE 2023: aguarde...
