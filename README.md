@@ -26,7 +26,7 @@ Nas últimas décadas, o progresso tecnológico e a redução de custos em equip
 
 **Fonte:** Autoria própria.
 
-[Gráfico dos resultados](https://github.com/brunohdmacedo/IC_2023_ML_Exoplanet/blob/main/resultados%20globais.png?raw=true)
+[!Gráfico dos resultados](https://github.com/brunohdmacedo/IC_2023_ML_Exoplanet/blob/main/resultados%20globais.png?raw=true)
 
 **Fonte:** Autoria própria.
 ## REFERÊNCIAS
